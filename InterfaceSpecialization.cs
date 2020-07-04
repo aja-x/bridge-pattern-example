@@ -1,0 +1,4 @@
+class InterfaceSpecialization : InterfaceEncapsulation2
+{
+    
+}

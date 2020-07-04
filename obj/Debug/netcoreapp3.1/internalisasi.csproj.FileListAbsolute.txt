@@ -1,0 +1,13 @@
+/home/aja-x/Documents/work/MG/internalisasi/bin/Debug/netcoreapp3.1/internalisasi
+/home/aja-x/Documents/work/MG/internalisasi/bin/Debug/netcoreapp3.1/internalisasi.deps.json
+/home/aja-x/Documents/work/MG/internalisasi/bin/Debug/netcoreapp3.1/internalisasi.runtimeconfig.json
+/home/aja-x/Documents/work/MG/internalisasi/bin/Debug/netcoreapp3.1/internalisasi.runtimeconfig.dev.json
+/home/aja-x/Documents/work/MG/internalisasi/bin/Debug/netcoreapp3.1/internalisasi.dll
+/home/aja-x/Documents/work/MG/internalisasi/bin/Debug/netcoreapp3.1/internalisasi.pdb
+/home/aja-x/Documents/work/MG/internalisasi/obj/Debug/netcoreapp3.1/internalisasi.csprojAssemblyReference.cache
+/home/aja-x/Documents/work/MG/internalisasi/obj/Debug/netcoreapp3.1/internalisasi.AssemblyInfoInputs.cache
+/home/aja-x/Documents/work/MG/internalisasi/obj/Debug/netcoreapp3.1/internalisasi.AssemblyInfo.cs
+/home/aja-x/Documents/work/MG/internalisasi/obj/Debug/netcoreapp3.1/internalisasi.csproj.CoreCompileInputs.cache
+/home/aja-x/Documents/work/MG/internalisasi/obj/Debug/netcoreapp3.1/internalisasi.dll
+/home/aja-x/Documents/work/MG/internalisasi/obj/Debug/netcoreapp3.1/internalisasi.pdb
+/home/aja-x/Documents/work/MG/internalisasi/obj/Debug/netcoreapp3.1/internalisasi.genruntimeconfig.cache
